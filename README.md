@@ -1,4 +1,4 @@
-#Comparative analysis of unsuprvised machine learning algorithms for fraud detection in healthcare insurance claims:case study on NHIF
+#PROJECT 1: Comparative analysis of unsuprvised machine learning algorithms for fraud detection in healthcare insurance claims:case study on NHIF
 
 Data source:NHIF
 This was a group project that involved cleaning data and performing exploratory data analyisis on inpatient claims data, and creating 3 unsupervised ML algorithms: Isolation forest, One-class SVM and Local Outlier Factor.
